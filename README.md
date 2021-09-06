@@ -1,2 +1,2 @@
 # Cluster_classification
-- clustering is a unsupervised machine learning algorithm.
+- Clustering is a unsupervised machine learning algorithm.
